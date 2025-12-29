@@ -39,6 +39,11 @@ Tenho experiência profissional na área administrativa e de TI, onde desenvolvi
 
 ---
 
+## 📚 Atualmente estudando
+- Java e Programação Orientada a Objetos
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 ### 💻 Linguagens
 JavaScript • TypeScript • Java

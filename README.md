@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Valdeci Novak Junior
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Desenvolvedor com foco em **Front-end** e  **Back-end**  
+💻 Desenvolvedor Web • React • Next.js • Java • Node.js
 📍 Santa Catarina - Brasil  
 
 ---

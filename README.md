@@ -1,4 +1,8 @@
 # 👋 Olá, eu sou Valdeci Novak Junior
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Desenvolvedor Web • React • Next.js • Java • Node.js

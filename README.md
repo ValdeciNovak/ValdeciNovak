@@ -1,9 +1,7 @@
-# 👋 Olá, eu sou Valdeci Junior
+# 👋 Olá, eu sou Valdeci Novak Junior
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Desenvolvedor com foco em **Front-end**, mas com experiência em **Back-end**  
-🎨 Interesse em **UI/UX** e prototipação com Figma  
-🔐 Interesse em **Cybersegurança**  
+💻 Desenvolvedor com foco em **Front-end** e  **Back-end**  
 📍 Santa Catarina - Brasil  
 
 ---
@@ -22,6 +20,16 @@ Atualmente, foco meus estudos em **desenvolvimento Web**, **React/Next.js**, **J
 
 ---
 
+
+## 💼 Experiência
+Tenho experiência profissional na área administrativa e de TI, onde desenvolvi habilidades de:
+- Organização e produtividade
+- Comunicação com times e stakeholders
+- Trabalho sob pressão
+- Solução de problemas complexos
+---
+
+
 ## 📚 Cursos e Certificações
 - 🚀 **ReactJS** – Rocketseat *(Concluído)*
 - 🚀 **NLW Pocket – JavaScript Full-stack Intermediário** – Rocketseat
@@ -32,46 +40,34 @@ Atualmente, foco meus estudos em **desenvolvimento Web**, **React/Next.js**, **J
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-
 ### 💻 Linguagens
-- JavaScript
-- TypeScript
-- Java
-- SQL
+JavaScript • TypeScript • Java
 
-### ⚙️ Front-end
-- React
-- Next.js
-- Tailwind CSS
-- HTML | CSS
+### 🧠 Front-end
+React • Next.js • Tailwind CSS • HTML • CSS
 
-### 🔙 Back-end
-- Node.js
-- Prisma ORM
-- API REST
+### 🧰 Back-end
+Node.js • API REST
 
 ### 🗄️ Banco de Dados
-- PostgreSQL
-- MySQL
+PostgreSQL • MySQL • Prisma ORM
 
 ### 🎨 UI / UX
-- Figma
-- Design de interfaces
-- Experiência do usuário
+Figma • Prototipação • Layout responsivo
 
-### 🛠️ Outros
-- Git & GitHub
-- WSL
-- Excel (SE, PROCV, SOMASE, etc.)
+### 🛠️ Ferramentas
+Git • GitHub • Excel avançado
 
 ---
 
+
 ## 📌 Áreas de Interesse
 - Desenvolvimento Web
-- Arquitetura de Software
-- UI/UX
+- Desenvolvimento Back-end
+- UI/UX e design de interfaces
 - Cybersegurança
-- Performance e organização de código
+- Boas práticas de código
+- Performance e escalabilidade
 
 ---
 
@@ -89,4 +85,4 @@ Atualmente, foco meus estudos em **desenvolvimento Web**, **React/Next.js**, **J
 
 ## 📫 Contato
 - 💼 LinkedIn: https://linkedin.com/in/valdecijuniordev
-- 🐙 GitHub: https://github.com/ValdeciNovak
+- 📧 E-mail: valdecirnovak@gmail.com

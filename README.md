@@ -80,11 +80,6 @@ Git • GitHub • Excel avançado
 
 ---
 
-## 📈 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/ValdeciNovak?template=classic&languages=1&isocalendar=1&theme=dracula)
-
----
-
 ## 🧩 Tecnologias
 <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,tailwind,nodejs,postgres,mongodb,prisma,figma,git" />
 

@@ -81,7 +81,7 @@ Git • GitHub • Excel avançado
 ---
 
 ## 🧩 Tecnologias
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,next,tailwind,nodejs,postgres,mongodb,prisma,figma,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,next,tailwind,nodejs,postgres,mongodb,prisma,figma,git" />
 
 ---
 

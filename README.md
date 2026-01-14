@@ -80,10 +80,8 @@ Git • GitHub • Excel avançado
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdeciNovak&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdeciNovak&layout=compact&theme=dracula)
+## 📈 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/ValdeciNovak?template=classic&languages=1&isocalendar=1&theme=dracula)
 
 ---
 
